@@ -9,7 +9,7 @@ First, run the development server:
 yarn
 
 #step 2: run the json server
-json-server --watch db.json or npx json-server --watch db.json
+json-server --watch db.json --port 8000 or npx json-server --watch db.json --port 8000
 
 #step 3: run the fron end
 yarn dev
