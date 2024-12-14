@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "id": "m4ogj6ie",
+      "name": "Abdallah Zaher2222",
+      "email": "abdallahabusedo2222@gmail.com",
+      "title": "Front end 2222",
+      "age": "27",
+      "phone": "01010567095",
+      "skills": [
+        {
+          "label": "React",
+          "value": "react"
+        },
+        {
+          "label": "Remix",
+          "value": "remix"
+        }
+      ]
+    }
+  ]
+}
